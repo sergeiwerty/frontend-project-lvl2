@@ -1,0 +1,44 @@
+{
+  "name": "frontend-project-lvl2",
+  "version": "1.0.0",
+  "description": "gendiff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeiwerty/frontend-project-lvl2.git"
+  },
+  "author": "Sergey D",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/sergeiwerty/frontend-project-lvl2/issues"
+  },
+  "homepage": "https://github.com/sergeiwerty/frontend-project-lvl2#readme",
+  "dependencies": {
+    "commander": "^6.1.0",
+    "debug": "^4.1.1",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.5",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "jest-cli": "^26.4.2"
+  },
+  "keywords": [
+    "cli",
+    "utility",
+    "parse",
+    "tree",
+    "formating",
+    "data"
+  ]
+}
