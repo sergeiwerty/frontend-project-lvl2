@@ -8,4 +8,4 @@ commander.option('1.0.0', '-V, --version', 'output the version number');
 commander.description('Compares two configuration files and shows a difference.');
 // commander.version('1.0.0', '-v, --vers', 'output the current version');
 
-
+commander.parse(process.argv)
