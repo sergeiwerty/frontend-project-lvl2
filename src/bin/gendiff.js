@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 import commander from 'commander';
+import runGenDiff from '..';
 
 commander
     .version('1.0.0')
